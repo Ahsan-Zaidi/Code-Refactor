@@ -34,27 +34,19 @@ I have created a portfolio, using my new React skills to help set you apart from
 ✋ [Deployed App](https://fizzaaz.github.io/react-portfolio/)
 
 
-![Screen Shot](./src/Assets/ss.JPG)
+![Screen Shot](./src/Assets/)
 
 ## ✋User Story
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+User wants a codebase that follows accessibility standards SO THAT our own site is optimized for search engines
 
 ## ✋Acceptance Criteria
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+* WHEN I view the source code THEN I find semantic HTML elements
+* WHEN I view the structure of the HTML elements THEN I find that the elements follow a logical structure independent of styling and positioning
+* WHEN I view the image elements THEN I find accessible alt attributes
+* WHEN I view the heading attributes THEN they fall in sequential order
+* WHEN I view the title element THEN I find a concise, descriptive title
 
 
 ## Table of Contents
@@ -69,15 +61,11 @@ THEN I find a concise, descriptive title
 
 ## 💻Usage
   
-Run the following command at the root of your project :
-  
-`npm start`     
-
-To access the app after starting the server, go to http://localhost:3000 in your browser or go to https://fizzaaz.github.io/react-portfolio/
+You can run this code in the browser using index.html.
 
 ## 💾Installation
 
-`npm start`
+Clone my repository or download the zip file.
 
 ## ✏️Testing
 
@@ -85,7 +73,7 @@ No testing is currently set up
 
 ## 👪Contribution
 
-Ahsan Zaidi  
+Enail me for contribution.
 
 ## Questions
 
