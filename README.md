@@ -34,8 +34,9 @@ I have created a portfolio, using my new React skills to help set you apart from
 ✋ [Deployed App](https://ahsan-zaidi.github.io/Code-Refactor/)
 
 
-![Screen Shot](assets/images/horiseon.jpg)
-![Screen Shot](asstes/images/horiseon2.jpg)
+![Screen Shot](assets/images/Horiseon.jpg)
+
+![Screen Shot](assets/images/horiseon2.jpg)
 
 ## ✋User Story
 
