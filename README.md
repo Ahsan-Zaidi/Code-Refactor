@@ -36,7 +36,7 @@ I have created a portfolio, using my new React skills to help set you apart from
 
 ![Screen Shot](assets/images/Horiseon.jpg)
 
-![Screen Shot](assets/images/horiseon2.jpg)
+![Screen Shot](assets/images/Horiseon2.jpg)
 
 ## ✋User Story
 
