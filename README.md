@@ -31,10 +31,11 @@ I have created a portfolio, using my new React skills to help set you apart from
 ✋ [GitHub Repository](https://github.com/Ahsan-Zaidi/Code-Refactor)
 
 
-✋ [Deployed App](https://fizzaaz.github.io/react-portfolio/)
+✋ [Deployed App](https://ahsan-zaidi.github.io/Code-Refactor/)
 
 
-![Screen Shot](./src/Assets/)
+![Screen Shot](assets/images/horiseon.jpg)
+![Screen Shot](asstes/images/horiseon2.jpg)
 
 ## ✋User Story
 
